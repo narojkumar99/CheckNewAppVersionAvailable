@@ -52,6 +52,6 @@ This project makes a request to the Google Play Store to check if there is a new
 See the [LICENSE](/LICENSE.txt). file for license rights and limitations (MIT).
 
 ## Support on Beerpay
-Hey dude! Help me out for a couple of :beers:!
+Hey dude! Help me out for a couple of :beer:!
 
 [![Beerpay](https://beerpay.io/jrvansuita/CheckNewAppVersionAvailable/badge.svg?style=beer-square)](https://beerpay.io/jrvansuita/CheckNewAppVersionAvailable)  [![Beerpay](https://beerpay.io/jrvansuita/CheckNewAppVersionAvailable/make-wish.svg?style=flat-square)](https://beerpay.io/jrvansuita/CheckNewAppVersionAvailable?focus=wish)
