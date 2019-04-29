@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
                 //Checks if there is a new version available on Google Play Store.
                 result.hasNewVersion();
 
-                //Get the new published version code of the app.
+                //Get the new published version code of the apps.
                 result.getNewVersionCode();
 
                 //Get the app current version code.
